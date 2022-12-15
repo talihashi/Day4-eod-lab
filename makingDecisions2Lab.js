@@ -89,7 +89,7 @@ var myFavoriteNumbers = [4,8,12,16,20,24];
 */
 
 //Code Here
-
+let someNum = myFavoriteNumbers[4];
 
 ////////// PROBLEM 7 //////////
 
